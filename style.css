@@ -1,0 +1,40 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f1f1f1;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+button {
+    margin-left: 10px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+button.del {
+    background-color: red;
+    color: white;
+}
+
+button.up, button.down {
+    background-color: #ccc;
+}
+
+button.edit {
+    background-color: #4CAF50;
+    color: white;
+}
+
+span {
+    margin-left: 10px;
+    font-style: italic;
+    color: #666;
+}
