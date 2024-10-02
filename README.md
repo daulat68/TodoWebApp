@@ -7,6 +7,7 @@ Task Input: Add tasks with assignment and due date.
 Edit & Delete: Modify or remove tasks easily.
 Reorder Tasks: Move tasks up or down in the list.
 Clear All Tasks: Remove all tasks at once.
+
 How to Use
 Enter a task in the input field.
 Specify who it's assigned to and the due date.
